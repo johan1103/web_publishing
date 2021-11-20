@@ -11,6 +11,18 @@
     border: 1px solid #000;
     /* bs tab */
     border-style: none;
-    /* bc tab */
+    /* bc or bgc tab */
     background-color: #fff;
+    /* psr tab */
+    position: relative;
+    /* psa tab */
+    position: absolute;
+    /* ta tab */
+    text-align: left;
+    /* fl tab */
+    float: left;
+    /* fz2em tab */
+    font-size: 2em;
+    /* w100% tab */
+    width: 100%;
 }
